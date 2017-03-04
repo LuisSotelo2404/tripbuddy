@@ -1,0 +1,23 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+*{
+    font-family: Lato;
+    font-size: 17px;
+}
+
+
+.outer{
+    height: 100vh;    
+}
+
+.background{
+  
+}
+
+.align{
+    position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
